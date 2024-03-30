@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Praveenm
+- 👋 Hi, I’m Praveen
 - 👀 I’m pursuing post graduation in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on real-time projects in machine learning
